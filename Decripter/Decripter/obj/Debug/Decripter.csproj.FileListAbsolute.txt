@@ -1,0 +1,8 @@
+c:\users\feeverts\documents\visual studio 2012\Projects\Decripter\Decripter\bin\Debug\Decripter.exe.config
+c:\users\feeverts\documents\visual studio 2012\Projects\Decripter\Decripter\obj\Debug\Decripter.csprojResolveAssemblyReference.cache
+c:\users\feeverts\documents\visual studio 2012\Projects\Decripter\Decripter\obj\Debug\Decripter.Properties.Resources.resources
+c:\users\feeverts\documents\visual studio 2012\Projects\Decripter\Decripter\obj\Debug\Decripter.csproj.GenerateResource.Cache
+c:\users\feeverts\documents\visual studio 2012\Projects\Decripter\Decripter\bin\Debug\Decripter.exe
+c:\users\feeverts\documents\visual studio 2012\Projects\Decripter\Decripter\bin\Debug\Decripter.pdb
+c:\users\feeverts\documents\visual studio 2012\Projects\Decripter\Decripter\obj\Debug\Decripter.exe
+c:\users\feeverts\documents\visual studio 2012\Projects\Decripter\Decripter\obj\Debug\Decripter.pdb
